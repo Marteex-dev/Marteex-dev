@@ -1,7 +1,5 @@
 # Hello World, I'm Thiago (Marte)! 👋 Welcome to my GitHub
 
-<img src="https://img.icons8.com/external-flat-juicy-fish/2x/external-space-astronomy-flat-flat-juicy-fish.png" width="120" alt="Space">
-
 ### 🌱 About Me
 - 🧑‍💻 15-year-old developer passionate about coding.
 - 🚀 Started programming at age 9, with a love for Python.
