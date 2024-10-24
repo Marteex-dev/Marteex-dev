@@ -12,7 +12,6 @@
     <td><img src="https://img.icons8.com/color/2x/python.png" width="120" alt="Python"></td>
     <td><img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5"></td>
     <td><img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3"></td>
-    <td><img src="https://img.icons8.com/color/2x/tailwind-css.png" width="120" alt="Tailwind CSS"></td>
     <td><img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap"></td>
     <td><img src="https://img.icons8.com/color/2x/javascript.png" width="120" alt="JavaScript"></td>
     <td><img src="https://img.icons8.com/color/2x/nextjs.png" width="120" alt="Next.js"></td>
