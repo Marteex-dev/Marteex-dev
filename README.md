@@ -34,4 +34,4 @@
 
 ---
 
-![Snake animation](https://github.com/Marte015/Marte015/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Marteex-dev/Marteex-dev/blob/output/github-contribution-grid-snake.svg)
