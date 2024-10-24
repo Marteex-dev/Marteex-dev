@@ -1,7 +1,7 @@
 # Olá Mundo, eu sou Thiago (Marte)! 👋 Bem-vindo ao meu GitHub
 
 ### 🌱 Sobre Mim
-- 🧑‍💻 Desenvolvedor de 15 anos apaixonado por programação.
+- 🧑‍💻 Desenvolvedor de 15 anos apaixonado por programação..
 - 🚀 Comecei a programar aos 9 anos, com uma paixão por Python.
 - 💻 Desenvolvedor front-end aprendendo back-end e algoritmos de IA.
 - 🔐 Entusiasta de cibersegurança.
