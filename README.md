@@ -14,6 +14,7 @@
     <td><img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3"></td>
     <td><img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap"></td>
     <td><img src="https://img.icons8.com/color/2x/javascript.png" width="120" alt="JavaScript"></td>
+    <td><img src="https://img.icons8.com/color/2x/php.png" width="120" alt="JavaScript"></td>
   </tr>
 </table>
 
