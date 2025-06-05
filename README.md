@@ -3,7 +3,7 @@
 ### 🌱 Sobre Mim
 - 🧑‍💻 Desenvolvedor de 15 anos apaixonado por programação.
 - 🚀 Comecei a programar aos 9 anos, com uma paixão por Python.
-- 💻 Desenvolvedor front-end aprendendo Back-end e Ciência da Computação.
+- 💻 Desenvolvedor Full-Stack aprendendo Ciência da Computação.
 - 🔐 Entusiasta de cibersegurança.
 
 ### 🔧 Tecnologias & Habilidades
