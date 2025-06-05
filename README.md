@@ -15,7 +15,7 @@
     <td><img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5"></td>
     <td><img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3"></td>    
     <td><img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Php"></td>
-    <td><img src="https://icons8.com/icon/CIAZz2CYc6Kc/tailwindcss" width="120" alt="Tailwindcss"></td>
+    <td><img src="https://img.icons8.com/color/2x/tailwind.png" width="120" alt="Tailwindcss"></td>
   </tr>
 </table>
 
